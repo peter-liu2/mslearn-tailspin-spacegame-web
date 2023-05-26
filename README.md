@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jblhive/Sandbox-1/_apis/build/status%2Fpeter-liu2.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/jblhive/Sandbox-1/_build/latest?definitionId=86&branchName=main)
 
 # Contributing
 
